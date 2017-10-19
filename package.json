@@ -2,14 +2,15 @@
   "name": "vonic-webpack-starter",
   "version": "1.0.0",
   "description": "A Vonic Project",
-  "author": "wangdahoo <157195705@qq.com>",
+  "author": "hanjixin <764671440@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vonic": "^2.0.0-beta.10"
+    "vonic": "^2.0.0-beta.10",
+    "vuex": "^3.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
